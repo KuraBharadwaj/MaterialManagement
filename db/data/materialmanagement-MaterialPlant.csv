@@ -1,0 +1,4 @@
+createdAt;createdBy;modifiedAt;modifiedBy;ID;MaterialNumber;MaintanenceStatus;PurchasingGroup;Matplant
+2024-01-04T19:03:09-0500;BharadwajKura;2024-01-04T19:03:09-0500;;0f56d288-872f-4965-8d26-131b5b201cb9;15401536;Basic;001;VA01
+2024-01-04T19:03:09-0500;BharadwajKura;2024-01-04T19:03:09-0500;;dd6d46a4-fe2a-4e4a-9e90-06418ff2d56e;15401537;Purchasing;002;VA02
+2024-01-04T19:03:09-0500;BharadwajKura;2024-01-04T19:03:09-0500;;0b713961-aea5-43d1-a147-1eb7f477580d;15401538;Warehouse;003;VA03
