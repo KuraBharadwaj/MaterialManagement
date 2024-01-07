@@ -1,0 +1,2 @@
+sap.ui.require(["sap/fe/test/JourneyRunner","materialmanagement/materialmanagement/test/integration/FirstJourney","materialmanagement/materialmanagement/test/integration/pages/MaterialsList","materialmanagement/materialmanagement/test/integration/pages/MaterialsObjectPage"],function(e,a,t,n){"use strict";var e=new e({launchUrl:sap.ui.require.toUrl("materialmanagement/materialmanagement")+"/index.html"});e.run({pages:{onTheMaterialsList:t,onTheMaterialsObjectPage:n}},a.run)});
+//# sourceMappingURL=opaTests.qunit.js.map

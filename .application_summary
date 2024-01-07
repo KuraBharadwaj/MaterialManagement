@@ -1,0 +1,5 @@
+{
+  "ProjectOverviewURL": "https://c7527ef8trial.launchpad.cfapps.us10.hana.ondemand.com/lcapmaterialmanagement.materialmanagementLaunchpad-1.0.0",
+  "DeployedUTCTime": "2024-01-07T00:53:50.658Z",
+  "ApplicationLogURL": "https://logs.cf.us10-001.hana.ondemand.com/app/dashboards#/view/Overview?_g=(filters:!((query:(match_phrase:(component_name:materialmanagement-srv)))))"
+}

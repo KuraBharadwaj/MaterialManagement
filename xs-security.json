@@ -1,0 +1,33 @@
+{
+  "scopes": [
+    {
+      "name": "$XSAPPNAME.MaterialViewer",
+      "description": "MaterialViewer"
+    },
+    {
+      "name": "$XSAPPNAME.MaterialManager",
+      "description": "MaterialManager"
+    }
+  ],
+  "attributes": [],
+  "role-templates": [
+    {
+      "name": "MaterialViewer",
+      "description": "",
+      "scope-references": [
+        "$XSAPPNAME.MaterialViewer"
+      ],
+      "attribute-references": []
+    },
+    {
+      "name": "MaterialManager",
+      "description": "",
+      "scope-references": [
+        "$XSAPPNAME.MaterialManager"
+      ],
+      "attribute-references": []
+    }
+  ],
+  "xsappname": "materialmanagement",
+  "tenant-mode": "dedicated"
+}
